@@ -1,0 +1,40 @@
+a, a:link, a:hover, a:visited {
+	text-decoration: none;
+}
+
+a:hover {
+	cursor: pointer;
+}
+
+body {
+	font-family: 'Quicksand', sans-serif;
+	background-image:url('../images/background_tokyo02.jpg');
+	background-repeat: no-repeat;
+}
+
+.codeschool, .onemonthrails {
+	color: black;
+	font-size: 120%;
+	padding: 20px 50px;
+}
+
+footer {
+	color: rgba(255,255,255, 0.8);
+	margin:  50px 142.5px 50px 142.5px ;
+	font-size: 20px;
+}
+
+#gray_box {
+	background-color: rgba(255,255,255, 0.5);
+  border-radius: 5px;
+	margin-bottom: 20px;
+}
+
+.main_title {
+	margin: 50px auto;
+}
+
+.title {
+	color: white;
+	font-size: 370%
+}
